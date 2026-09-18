@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\bin\Debug\net10.0\Odev3_ATM_Para_Cekme.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\refint\Odev3_ATM_Para_Cekme.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\Odev3_ATM_Para_Cekme.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev3_ATM_Para_Cekme\obj\Debug\net10.0\ref\Odev3_ATM_Para_Cekme.dll
