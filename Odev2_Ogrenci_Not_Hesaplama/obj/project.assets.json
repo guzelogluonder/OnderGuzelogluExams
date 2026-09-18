@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev2_Ogrenci_Not_Ve_Harf_Karsiligi\\Odev2_Ogrenci_Not_Ve_Harf_Karsiligi.csproj",
-      "projectName": "Odev2_Ogrenci_Not_Ve_Harf_Karsiligi",
-      "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev2_Ogrenci_Not_Ve_Harf_Karsiligi\\Odev2_Ogrenci_Not_Ve_Harf_Karsiligi.csproj",
+      "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev2_Ogrenci_Not_Hesaplama\\Odev2_Ogrenci_Not_Hesaplama.csproj",
+      "projectName": "Odev2_Ogrenci_Not_Hesaplama",
+      "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev2_Ogrenci_Not_Hesaplama\\Odev2_Ogrenci_Not_Hesaplama.csproj",
       "packagesPath": "C:\\Users\\guzel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev2_Ogrenci_Not_Ve_Harf_Karsiligi\\obj\\",
+      "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev2_Ogrenci_Not_Hesaplama\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guzel\\AppData\\Roaming\\NuGet\\NuGet.Config"
