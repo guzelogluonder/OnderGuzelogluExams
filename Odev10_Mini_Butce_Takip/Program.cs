@@ -2,7 +2,7 @@
 decimal expenseAmount = 6500m;
 decimal balance;
 int choice = 1;
-while (choice >= 1 && choice < 4)
+while (choice != 4)
 {
     System.Console.Write("=== BÜTÇE TAKİP ===\n" +
                             "1 - Gelir Ekle\n" +
@@ -30,31 +30,18 @@ while (choice >= 1 && choice < 4)
                                     $"Toplam Gelir: {incomeAmount}\n" +
                                     $"Toplam Gider: {expenseAmount}\n" +
                                     $"Bakiye: {balance}\n\n");
-            if (balance < 0)
-            {
-                System.Console.WriteLine("Bütçeniz ekside!");
-            }
-            else if (balance > 0)
-            {
-                System.Console.WriteLine("Bütçeniz olumlu durumda.");
-            }
-            else
-            {
-                System.Console.WriteLine("Bütçeniz dengede.");
-            }
             break;
         case 4:
             System.Console.Write("Çıkış yapıldı.");
             break;
+        default:
+            System.Console.WriteLine("Geçersiz seçim.");
+            break;
     }
-    if (choice != 4 && choice < 4)
+    if (choice != 4)
     {
         System.Console.Write("Devam Etmek İçin Enter'a basın...");
         Console.ReadLine();
         Console.Clear();
-    }
-    else if (choice > 4)
-    {
-        System.Console.Write("Geçersiz seçim.");
     }
 }
