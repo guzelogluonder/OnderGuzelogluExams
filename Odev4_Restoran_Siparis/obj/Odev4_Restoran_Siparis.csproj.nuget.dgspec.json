@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj": {}
+    "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj": {
+    "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj",
+        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj",
         "projectName": "Odev4_Restoran_Siparis",
-        "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj",
+        "projectPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\Odev4_Restoran_Siparis.csproj",
         "packagesPath": "C:\\Users\\guzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\obj\\",
+        "outputPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev4_Restoran_Siparis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guzel\\AppData\\Roaming\\NuGet\\NuGet.Config"

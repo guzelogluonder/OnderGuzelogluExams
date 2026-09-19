@@ -1,6 +1,6 @@
-﻿int menuChoise = 1;
+﻿int menuChoice = 1;
 int piece = 0;
-while (menuChoise >= 1 && menuChoise <= 5)
+while (menuChoice >= 1 && menuChoice <= 5)
 {
 
     System.Console.Write(" === RESTORAN MENUSU === \n " +
@@ -10,16 +10,16 @@ while (menuChoise >= 1 && menuChoise <= 5)
                             "4 - Salata         120 TL\n " +
                             "5 - Çıkış \n" +
                             "Seciminiz: ");
-    menuChoise = int.Parse(Console.ReadLine()!);
+    menuChoice = int.Parse(Console.ReadLine()!);
 
-    if (menuChoise < 5)
+    if (menuChoice < 5)
     {
         System.Console.Write("Adet: ");
         piece = int.Parse(Console.ReadLine()!);
 
         int totalPrice = 0;
         Console.Clear();
-        switch (menuChoise)
+        switch (menuChoice)
         {
             case 1:
                 totalPrice = 250 * piece;
@@ -46,16 +46,16 @@ while (menuChoise >= 1 && menuChoise <= 5)
         Console.ReadLine();
         Console.Clear();
         System.Console.Write("Yeni Secim --> 1 \n Cikis --> 5 \n Seciminiz: ");
-        menuChoise = int.Parse(Console.ReadLine()!);
+        menuChoice = int.Parse(Console.ReadLine()!);
         Console.Clear();
     }
-    if (menuChoise == 5)
+    if (menuChoice == 5)
     {
         Console.Clear();
         System.Console.Write("Cikis Yaptiniz.");
         break;
     }
-    else if (menuChoise != 1 && menuChoise != 5)
+    else if (menuChoice != 1 && menuChoice != 5)
     {
         Console.Clear();
         System.Console.Write("Yanlis Secim Yaptiniz Lütfen Tekrar Deneyiniz. \n Yeni Secim --> 1 \n Cikis --> 5 \n Seciminiz:  ");
@@ -63,7 +63,7 @@ while (menuChoise >= 1 && menuChoise <= 5)
         Console.Clear();
     }
 }
-if (menuChoise != 5)
+if (menuChoice != 5)
 {
     Console.Clear();
     System.Console.WriteLine("Yanlış seçim yaptınız. Çıkış yapıldı.");
