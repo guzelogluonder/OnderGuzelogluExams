@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev4_Restoran_Siparis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4596326a4fd63cd02693a825160d61e243f4f06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2c5564df682664ab9c5558498fcab4b284594b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev4_Restoran_Siparis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev4_Restoran_Siparis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
