@@ -1,10 +1,8 @@
-﻿using System.Collections.Concurrent;
-
-decimal incomeAmount = 10000;
-decimal expenseAmount = 6500;
+﻿decimal incomeAmount = 10000m;
+decimal expenseAmount = 6500m;
 decimal balance;
-int choise = 1;
-while (choise >= 1 && choise < 4)
+int choice = 1;
+while (choice >= 1 && choice < 4)
 {
     System.Console.Write("=== BÜTÇE TAKİP ===\n" +
                             "1 - Gelir Ekle\n" +
@@ -12,9 +10,9 @@ while (choise >= 1 && choise < 4)
                             "3 - Bakiye Göster\n" +
                             "4 - Çıkış\n\n" +
                             "Seçiminiz: ");
-    choise = int.Parse(Console.ReadLine()!);
+    choice = int.Parse(Console.ReadLine()!);
     Console.Clear();
-    switch (choise)
+    switch (choice)
     {
         case 1:
             System.Console.Write("Eklenecek Gelir: ");
@@ -49,13 +47,13 @@ while (choise >= 1 && choise < 4)
             System.Console.Write("Çıkış yapıldı.");
             break;
     }
-    if (choise != 4 && choise < 4)
+    if (choice != 4 && choice < 4)
     {
         System.Console.Write("Devam Etmek İçin Enter'a basın...");
         Console.ReadLine();
         Console.Clear();
     }
-    else if (choise > 4)
+    else if (choice > 4)
     {
         System.Console.Write("Geçersiz seçim.");
     }

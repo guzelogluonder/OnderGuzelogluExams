@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev10_Mini_Butce_Takip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00bd1a00bbede5a04b59cf0bc120462523c20c82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b939c2813aad81309fcb544aa3511e117af892d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev10_Mini_Butce_Takip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev10_Mini_Butce_Takip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
