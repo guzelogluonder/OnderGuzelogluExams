@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev1_Kargo_Ucreti_Hesaplama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f8e4274a0835acd0ff63aaf5094488d0bd78011")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9d83b7ebc7713dbe975f597e7c8ff9435b29fdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev1_Kargo_Ucreti_Hesaplama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev1_Kargo_Ucreti_Hesaplama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

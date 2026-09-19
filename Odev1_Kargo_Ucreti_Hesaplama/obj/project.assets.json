@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev1_Kargo_Ucreti_Hesaplama\\Odev1_Kargo_Ucreti_Hesaplama.csproj",
+      "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev1_Kargo_Ucreti_Hesaplama\\Odev1_Kargo_Ucreti_Hesaplama.csproj",
       "projectName": "Odev1_Kargo_Ucreti_Hesaplama",
-      "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev1_Kargo_Ucreti_Hesaplama\\Odev1_Kargo_Ucreti_Hesaplama.csproj",
+      "projectPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev1_Kargo_Ucreti_Hesaplama\\Odev1_Kargo_Ucreti_Hesaplama.csproj",
       "packagesPath": "C:\\Users\\guzel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev1_Kargo_Ucreti_Hesaplama\\obj\\",
+      "outputPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev1_Kargo_Ucreti_Hesaplama\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guzel\\AppData\\Roaming\\NuGet\\NuGet.Config"

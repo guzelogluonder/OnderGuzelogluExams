@@ -1,7 +1,4 @@
-﻿
-using System.Runtime.InteropServices;
-
-int addNewOrStop = 0;
+﻿int addNewOrStop = 0;
 while (addNewOrStop != 2)
 {
     Console.Clear();
