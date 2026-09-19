@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography;
-Random rnd = new();
+﻿Random rnd = new();
 int guessCount = 0;
 bool isTrue = true;
 int num = rnd.Next(1, 10);
