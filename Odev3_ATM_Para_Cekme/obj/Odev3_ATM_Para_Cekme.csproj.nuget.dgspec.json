@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj": {}
+    "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj": {
+    "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj",
+        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj",
         "projectName": "Odev3_ATM_Para_Cekme",
-        "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj",
+        "projectPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\Odev3_ATM_Para_Cekme.csproj",
         "packagesPath": "C:\\Users\\guzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\obj\\",
+        "outputPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Odev3_ATM_Para_Cekme\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guzel\\AppData\\Roaming\\NuGet\\NuGet.Config"

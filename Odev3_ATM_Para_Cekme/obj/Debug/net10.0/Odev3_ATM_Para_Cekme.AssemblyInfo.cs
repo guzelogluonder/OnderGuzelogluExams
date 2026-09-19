@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev3_ATM_Para_Cekme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51d8edc6afef5676dd0b66219459f3fcda5f106")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eb19c9478b2794f6a04de58c90453cb9ad1ebcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev3_ATM_Para_Cekme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev3_ATM_Para_Cekme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
