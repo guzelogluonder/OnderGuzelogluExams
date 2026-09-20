@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Odev13_Kitap_Satis_Ve_Stok_Takip/1.0.0": {
+        "runtime": {
+          "Odev13_Kitap_Satis_Ve_Stok_Takip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev13_Kitap_Satis_Ve_Stok_Takip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
