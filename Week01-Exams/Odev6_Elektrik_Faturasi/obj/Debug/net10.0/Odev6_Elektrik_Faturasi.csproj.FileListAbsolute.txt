@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\bin\Debug\net10.0\Odev6_Elektrik_Faturasi.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\bin\Debug\net10.0\Odev6_Elektrik_Faturasi.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\bin\Debug\net10.0\Odev6_Elektrik_Faturasi.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\bin\Debug\net10.0\Odev6_Elektrik_Faturasi.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\bin\Debug\net10.0\Odev6_Elektrik_Faturasi.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\refint\Odev6_Elektrik_Faturasi.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\Odev6_Elektrik_Faturasi.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev6_Elektrik_Faturasi\obj\Debug\net10.0\ref\Odev6_Elektrik_Faturasi.dll

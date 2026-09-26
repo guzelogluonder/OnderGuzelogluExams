@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\bin\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\refint\Odev1_Kargo_Ucreti_Hesaplama.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\Odev1_Kargo_Ucreti_Hesaplama.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Odev1_Kargo_Ucreti_Hesaplama\obj\Debug\net10.0\ref\Odev1_Kargo_Ucreti_Hesaplama.dll
