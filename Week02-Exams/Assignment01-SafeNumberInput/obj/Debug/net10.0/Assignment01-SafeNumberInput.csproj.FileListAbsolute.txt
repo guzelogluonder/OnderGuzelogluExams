@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\bin\Debug\net10.0\Assignment01-SafeNumberInput.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\refint\Assignment01-SafeNumberInput.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\Assignment01-SafeNumberInput.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment01-SafeNumberInput\obj\Debug\net10.0\ref\Assignment01-SafeNumberInput.dll
