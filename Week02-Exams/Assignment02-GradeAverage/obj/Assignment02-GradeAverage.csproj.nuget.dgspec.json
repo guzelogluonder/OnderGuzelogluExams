@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj": {}
+    "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj": {
+    "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj",
+        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj",
         "projectName": "Assignment02-GradeAverage",
-        "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj",
+        "projectPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\Assignment02-GradeAverage.csproj",
         "packagesPath": "C:\\Users\\guzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\obj\\",
+        "outputPath": "C:\\Users\\guzel\\OneDrive\\Masaüstü\\OnderGuzelogluExams\\Week02-Exams\\Assignment02-GradeAverage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guzel\\AppData\\Roaming\\NuGet\\NuGet.Config"
