@@ -25,7 +25,7 @@ for (int i = 0; i < transactionCount; i++)
         }
         System.Console.Write("Tutar: ");
         decimal amount = decimal.Parse(Console.ReadLine()!);
-        if (amount < 0)
+        if (amount <= 0)
         {
             throw new IndexOutOfRangeException("Hata: Tutar pozitif olmalı.");
         }
