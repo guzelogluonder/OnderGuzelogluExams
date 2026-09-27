@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment04-CashOperations\\Assignment04-CashOperations.csproj": {}
+    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment05-ArrayCapacity\\Assignment05-ArrayCapacity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment04-CashOperations\\Assignment04-CashOperations.csproj": {
+    "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment05-ArrayCapacity\\Assignment05-ArrayCapacity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment04-CashOperations\\Assignment04-CashOperations.csproj",
-        "projectName": "Assignment04-CashOperations",
-        "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment04-CashOperations\\Assignment04-CashOperations.csproj",
+        "projectUniqueName": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment05-ArrayCapacity\\Assignment05-ArrayCapacity.csproj",
+        "projectName": "Assignment05-ArrayCapacity",
+        "projectPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment05-ArrayCapacity\\Assignment05-ArrayCapacity.csproj",
         "packagesPath": "C:\\Users\\guzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment04-CashOperations\\obj\\",
+        "outputPath": "C:\\Users\\guzel\\OneDrive\\Belgeler\\GitHub\\OnderGuzelogluExams\\Week02-Exams\\Assignment05-ArrayCapacity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guzel\\AppData\\Roaming\\NuGet\\NuGet.Config"
