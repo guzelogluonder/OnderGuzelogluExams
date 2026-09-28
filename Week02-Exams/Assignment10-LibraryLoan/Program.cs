@@ -3,8 +3,8 @@
 string[] bookNames = new string[12];
 string[] memberNames = new string[12];
 bool[] isReturnedFlags = new bool[12];
-string bookName = "";
-string memberName = "";
+string bookName;
+string memberName;
 int recordCount = 0;
 int menuChoice = 0;
 while (menuChoice != 4)
