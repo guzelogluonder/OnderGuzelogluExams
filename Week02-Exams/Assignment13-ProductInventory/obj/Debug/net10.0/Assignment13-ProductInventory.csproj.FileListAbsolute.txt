@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\bin\Debug\net10.0\Assignment13-ProductInventory.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\bin\Debug\net10.0\Assignment13-ProductInventory.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\bin\Debug\net10.0\Assignment13-ProductInventory.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\bin\Debug\net10.0\Assignment13-ProductInventory.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\bin\Debug\net10.0\Assignment13-ProductInventory.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\refint\Assignment13-ProductInventory.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\Assignment13-ProductInventory.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week02-Exams\Assignment13-ProductInventory\obj\Debug\net10.0\ref\Assignment13-ProductInventory.dll
