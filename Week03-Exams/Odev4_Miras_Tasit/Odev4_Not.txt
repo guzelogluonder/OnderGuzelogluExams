@@ -1,0 +1,1 @@
+Truck,Motocycle,tractor vehicle sinifi ile inheritence iliskisi kurabilir.
