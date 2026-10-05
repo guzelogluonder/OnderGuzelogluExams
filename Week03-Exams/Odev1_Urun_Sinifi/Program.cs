@@ -1,5 +1,4 @@
-﻿using Odev1_Urun_Sinifi.Models;
-
+﻿namespace Odev1_Constructor;
 class Program
 {
     static void Main(string[] args)

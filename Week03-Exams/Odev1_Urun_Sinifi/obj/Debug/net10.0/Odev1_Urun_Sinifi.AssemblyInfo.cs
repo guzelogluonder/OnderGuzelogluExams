@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev1_Urun_Sinifi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b1bc8ce5a645d2981179ef163dc0da9319ecbee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d71ca5ee0612f8752f6cf6615c83208414a2e2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev1_Urun_Sinifi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev1_Urun_Sinifi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
