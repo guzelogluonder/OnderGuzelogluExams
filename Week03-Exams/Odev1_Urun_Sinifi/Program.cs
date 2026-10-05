@@ -1,5 +1,5 @@
 ﻿using Odev1_Urun_Sinifi.Models;
-namespace Odev2_Constructor;
+namespace Odev1_Constructor;
 
 class Program
 {
