@@ -1,4 +1,6 @@
-﻿namespace Odev1_Constructor;
+﻿using Odev1_Urun_Sinifi.Models;
+namespace Odev2_Constructor;
+
 class Program
 {
     static void Main(string[] args)
