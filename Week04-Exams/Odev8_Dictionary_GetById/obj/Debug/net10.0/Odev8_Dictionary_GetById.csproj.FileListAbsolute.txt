@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\bin\Debug\net10.0\Odev8_Dictionary_GetById.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\bin\Debug\net10.0\Odev8_Dictionary_GetById.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\bin\Debug\net10.0\Odev8_Dictionary_GetById.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\bin\Debug\net10.0\Odev8_Dictionary_GetById.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\bin\Debug\net10.0\Odev8_Dictionary_GetById.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\refint\Odev8_Dictionary_GetById.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\Odev8_Dictionary_GetById.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev8_Dictionary_GetById\obj\Debug\net10.0\ref\Odev8_Dictionary_GetById.dll
