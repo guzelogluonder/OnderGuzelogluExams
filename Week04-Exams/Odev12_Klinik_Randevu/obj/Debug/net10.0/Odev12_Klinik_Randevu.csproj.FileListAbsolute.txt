@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\bin\Debug\net10.0\Odev12_Klinik_Randevu.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\bin\Debug\net10.0\Odev12_Klinik_Randevu.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\bin\Debug\net10.0\Odev12_Klinik_Randevu.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\bin\Debug\net10.0\Odev12_Klinik_Randevu.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\bin\Debug\net10.0\Odev12_Klinik_Randevu.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\refint\Odev12_Klinik_Randevu.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\Odev12_Klinik_Randevu.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev12_Klinik_Randevu\obj\Debug\net10.0\ref\Odev12_Klinik_Randevu.dll
