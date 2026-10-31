@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\bin\Debug\net10.0\Odev1_AssetTracking.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\bin\Debug\net10.0\Odev1_AssetTracking.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\bin\Debug\net10.0\Odev1_AssetTracking.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\bin\Debug\net10.0\Odev1_AssetTracking.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\bin\Debug\net10.0\Odev1_AssetTracking.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\refint\Odev1_AssetTracking.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\Odev1_AssetTracking.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week04-Exams\Odev1_AssetTracking\obj\Debug\net10.0\ref\Odev1_AssetTracking.dll
