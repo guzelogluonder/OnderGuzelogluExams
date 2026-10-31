@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\bin\Debug\net10.0\Odev3_Delegate.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\bin\Debug\net10.0\Odev3_Delegate.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\bin\Debug\net10.0\Odev3_Delegate.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\bin\Debug\net10.0\Odev3_Delegate.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\bin\Debug\net10.0\Odev3_Delegate.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\refint\Odev3_Delegate.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\Odev3_Delegate.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev3_Delegate\obj\Debug\net10.0\ref\Odev3_Delegate.dll
