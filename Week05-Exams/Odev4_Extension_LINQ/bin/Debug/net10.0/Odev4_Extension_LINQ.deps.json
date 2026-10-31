@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Odev4_Extension_LINQ/1.0.0": {
+        "runtime": {
+          "Odev4_Extension_LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev4_Extension_LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
