@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\bin\Debug\net10.0\Odev5_Tekil_Sonuc.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\bin\Debug\net10.0\Odev5_Tekil_Sonuc.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\bin\Debug\net10.0\Odev5_Tekil_Sonuc.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\bin\Debug\net10.0\Odev5_Tekil_Sonuc.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\bin\Debug\net10.0\Odev5_Tekil_Sonuc.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\refint\Odev5_Tekil_Sonuc.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\Odev5_Tekil_Sonuc.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev5_Tekil_Sonuc\obj\Debug\net10.0\ref\Odev5_Tekil_Sonuc.dll
