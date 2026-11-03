@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odev8_Nullable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3708e50400c812ef6dadc3402e6edf07b3c76281")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6693ac555b54cddbc9c259909d732a77a4ebc7d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odev8_Nullable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odev8_Nullable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

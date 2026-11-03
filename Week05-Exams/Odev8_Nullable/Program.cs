@@ -77,5 +77,7 @@ class Program
         {
             System.Console.WriteLine("Doğum Tarihi girilmemiş.");
         }
+        //CS0103
+        // null değer gelebileceği uyarısını ! ile suspend edebiliriz. Ancak bu değerin null değer alabileceği anlamına gelmiyor bu nedenle null exception yönetimi konusunda kullanımı tehlikelidir.
     }
 }
