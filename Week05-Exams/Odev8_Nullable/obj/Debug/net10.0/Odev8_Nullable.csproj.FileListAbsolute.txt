@@ -1,0 +1,15 @@
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\bin\Debug\net10.0\Odev8_Nullable.exe
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\bin\Debug\net10.0\Odev8_Nullable.deps.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\bin\Debug\net10.0\Odev8_Nullable.runtimeconfig.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\bin\Debug\net10.0\Odev8_Nullable.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\bin\Debug\net10.0\Odev8_Nullable.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.AssemblyInfoInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.AssemblyInfo.cs
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.sourcelink.json
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\refint\Odev8_Nullable.dll
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.pdb
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\Odev8_Nullable.genruntimeconfig.cache
+C:\Users\guzel\OneDrive\Belgeler\GitHub\OnderGuzelogluExams\Week05-Exams\Odev8_Nullable\obj\Debug\net10.0\ref\Odev8_Nullable.dll
